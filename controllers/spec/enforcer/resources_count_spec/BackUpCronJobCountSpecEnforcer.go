@@ -21,7 +21,7 @@ limitations under the License.
 package resources_count_spec
 
 import (
-	"k8s.io/api/batch/v1beta1"
+	"k8s.io/api/batch/v1"
 	"reactive-tech.io/kubegres/controllers/ctx"
 	"reactive-tech.io/kubegres/controllers/spec/template"
 	"reactive-tech.io/kubegres/controllers/states"
